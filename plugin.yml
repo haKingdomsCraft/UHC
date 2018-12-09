@@ -9,7 +9,11 @@
 name: UHC
 author:  Ad5001
 version: 1.0
-api: [2.0.0]
+api:
+- 3.0.0
+- 4.0.0
+- Coming
+- Soon
 main: Ad5001\UHC\Main
 commands: 
    uhc:
